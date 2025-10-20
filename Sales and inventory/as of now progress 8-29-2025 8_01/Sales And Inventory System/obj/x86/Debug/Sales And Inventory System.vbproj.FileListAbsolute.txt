@@ -1,0 +1,77 @@
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\bin\Debug\Sales And Inventory System.exe
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\bin\Debug\Sales And Inventory System.pdb
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\bin\Debug\Sales And Inventory System.xml
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Form1.resources
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Resources.resources
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbproj.GenerateResource.Cache
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.exe
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.xml
+c:\users\ideapad slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Stocks.resources
+C:\Users\Ideapad Slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Product.resources
+C:\Users\Ideapad Slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.inventory.resources
+C:\Users\Ideapad Slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Ideapad Slim3i\documents\visual studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\bin\Debug\Guna.UI2.dll
+C:\Users\Ideapad Slim3i\Documents\Visual Studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Login.resources
+C:\Users\Ideapad Slim3i\Documents\Visual Studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Createaccount.resources
+C:\Users\Ideapad Slim3i\Documents\Visual Studio 2010\Projects\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Forgotaccount.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.exe
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.xml
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\bin\Debug\Sales And Inventory System.exe
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\bin\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\bin\Debug\Sales And Inventory System.xml
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Createaccount.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Forgotaccount.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Form1.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.inventory.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Login.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Resources.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Product.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Stocks.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.splash.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.userform.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales And Inventory System\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.SalesReport.resources
+C:\Users\Ideapad Slim3i\Downloads\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.exe
+C:\Users\Ideapad Slim3i\Downloads\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.xml
+C:\Users\Ideapad Slim3i\Downloads\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.exe
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.xml
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\bin\Debug\Sales And Inventory System.exe
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\bin\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\bin\Debug\Sales And Inventory System.xml
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Createaccount.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Forgotaccount.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Form1.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.inventory.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Login.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Resources.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Product.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.SalesReport.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.splash.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Stocks.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.userform.resources
+C:\Users\Ideapad Slim3i\Desktop\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.exe
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.xml
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\bin\Debug\Sales And Inventory System.exe
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\bin\Debug\Sales And Inventory System.pdb
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\bin\Debug\Sales And Inventory System.xml
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Createaccount.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Forgotaccount.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Form1.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.inventory.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Login.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Resources.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Product.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.SalesReport.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.splash.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.Stocks.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales_And_Inventory_System.userform.resources
+C:\Users\Ideapad Slim3i\Desktop\Sales and inventory\as of now progress 8-29-2025 8_01\Sales And Inventory System\obj\x86\Debug\Sales And Inventory System.vbproj.GenerateResource.Cache
